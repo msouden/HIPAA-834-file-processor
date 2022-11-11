@@ -8,4 +8,4 @@ for some information on it.
 
 Also: https://edination.com/edi-formats.html for a vivid illustration of how fragmented this "standard" is.
 
-That said, if you can reverse engineer via context or have some internal documentation as to how the sectors implemented within your organization, this might be a passable framework for building a parser.
+That said, if you can reverse engineer via context or have some internal documentation as to how sectors were implemented within your organization, this might be a passable framework for building a parser.
